@@ -10,7 +10,7 @@
 - Childreen
 These Factors are responsible for Predicting the insurence of an Individual
 Project  Architecture:
-  ![Image]("https://github.com/user-attachments/assets/33d56d2f-5f92-4eef-8a93-7625f1887213")
+![image](https://github.com/user-attachments/assets/33d56d2f-5f92-4eef-8a93-7625f1887213)
 Skills to enhance :
 - Data Analytics
 - Python Programming Libraries ( Pandas, Numpy, Seaborn and Matplotlib)

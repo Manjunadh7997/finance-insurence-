@@ -1,4 +1,4 @@
-# Financial Insurence Prediction 
+# Insurance Forecasting 
 
 ####   Financial insurance is obtained by validating multiple factors and checking the habits of an Individual.
 > Prediction of Financial Insurance of an Individual Based on the various factors. we  have Built a model to predict the insurance amount by using various columns they are as follows:
